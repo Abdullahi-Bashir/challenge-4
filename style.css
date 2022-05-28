@@ -1,0 +1,103 @@
+/* Start css */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+
+}
+
+body{
+    background-color:black;
+}
+  /* Start main */
+.main_contante{
+    position: absolute;
+    display: flex;
+    left: 10%;
+    top: 20%;
+}
+
+/* Start left_Side */
+
+/* Start left_Side up */
+
+.left_Side{
+    position: relative;
+    background-color:rgb(15, 15, 34);
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    width: 40vw;
+    height: 60vh;
+}
+
+.left_Side h2,p,h3{
+    position: relative;
+    left: 40px;
+    top: 50px;
+    color: white;
+}
+
+.left_Side p{
+    position: relative;
+    top: 80px;
+    color: rgba(211, 211, 211, 0.438);
+}
+.left_Side .da{
+    color: purple;
+}
+ /* End left_Side up */
+
+/*  Start left_Side down */
+.king {
+    position: relative;
+    display: flex;
+    top: 50px;
+    left: 30px;
+}
+
+.first
+{
+    position: relative;
+ 
+    left: 5px;
+}
+
+.secound{
+    position: relative;
+    left:40px;
+
+}
+
+.third{
+    position: relative;
+    left: 80px;
+}
+
+.king span{
+    color: rgba(211, 211, 211, 0.438);
+    font-size: smaller;
+}
+/* End Left_Side down */
+
+/*  End Left_Side  */ 
+
+/* Start right_side */
+
+.right_Side{
+    position:relative;
+
+ 
+}
+
+.right_Side img{
+    position: relative;
+    width: 40vw;
+    height: 59.80vh;
+    top: 1px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+   /* End right_side */
+
+/* --End css */

@@ -1,0 +1,88 @@
+/* responsive site */
+
+/* 
+@media screen and (max-width:950px  ) {
+ 
+.main_content{
+    position: relative;
+    display: inline-block;
+    
+}
+ */
+
+/* left_Side responsive */
+/* 
+.left_Side{
+    position: relative;
+    width: 50.2vw;
+    height: 50vh;
+    top: 150px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+
+}
+
+.king {
+    position: relative;
+    display: inline;
+    top: 50px;
+   
+}
+
+.first
+{
+    position: relative;
+    left: 37%;
+    top: 90px;
+}
+
+.secound
+{
+    position: relative;
+    left: 37%;
+    top: 130px;
+}
+
+.third
+{
+    position: relative;
+    left: 36%;
+    top: 180px;
+}
+
+.king span{
+    position: relative;
+    left: -15px;
+}
+
+.king .third span{
+    position: relative;
+    left: -8px;
+}
+*/
+
+/* right_Side responsive */
+
+/*  
+.right_Side{
+    position: relative;
+    bottom: 770px;
+}
+
+.right_Side img{
+    position: relative;
+    width: 50.2vw;
+    height: 30vh;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+
+}
+
+}
+*/
